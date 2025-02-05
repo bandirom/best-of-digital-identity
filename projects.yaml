@@ -804,12 +804,6 @@ projects:
     category: ssi-agents
     license: "Apache-2.0"
     description: Digital wallet with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
-  - name: procivis-one-wallet
-    labels: ["w3c"]
-    github: procivis/one-wallet
-    category: ssi-sdks
-    license: "Apache-2.0"
-    description: Digital wallet with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
   - name: procivis-one-core
     labels: ["w3c"]
     github: procivis/one-core
